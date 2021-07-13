@@ -1,0 +1,20 @@
+{
+      "files": [
+            ["index.js", "string"],
+            ["package.json", "string"],
+            ["package-lock.json", "string"],
+            ["public/index.html", "string"],
+            ["public/assets/css/index.css", "string"],
+            ["public/assets/logo/logo.svg", "svg"],
+            ["public/assets/logo/logo192.png", "png"],
+            ["public/assets/logo/logo384.png", "png"],
+            ["public/assets/logo/logo512.png", "png"],
+            ["public/assets/pwa/manifest.json", "string"],
+            ["src/main.js", "string"],
+            ["src/views/app.js", "string"],
+            ["src/views/app.css", "string"]
+      ],
+      "author": "Xeon-cli",
+      "name": "default",
+      "version": "1.0.0"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "xeon-templates",
+  "version": "1.0.0",
+  "description": "All Official xeon-template list.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "XEONJS",
+    "xeon-cli",
+    "Xeon JS Templates"
+  ],
+  "author": "Arif Sardar",
+  "license": "MIT"
+}
