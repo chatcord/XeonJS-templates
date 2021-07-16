@@ -3,6 +3,7 @@
             ["index.js", "string"],
             ["package.json", "string"],
             ["package-lock.json", "string"],
+            [".gitignore", "string"],
             ["public/index.html", "string"],
             ["public/assets/css/index.css", "string"],
             ["public/assets/logo/logo.svg", "svg"],
@@ -16,5 +17,5 @@
       ],
       "author": "Xeon-cli",
       "name": "default",
-      "version": "1.0.0"
+      "version": "1.0.1"
 }
